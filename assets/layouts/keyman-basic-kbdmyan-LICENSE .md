@@ -1,4 +1,5 @@
-[keyman-basic-kbdmyan-LICENSE.md](https://github.com/user-attachments/files/32761182/keyman-basic-kbdmyan-LICENSE.md)[Uploading keyman-baThe MIT License (MIT)
+[keyman-basic-kbdmyan-LICENSE.md](https://github.com/user-attachments/files/32761208/keyman-basic-kbdmyan-LICENSE.md)
+The MIT License (MIT)
 
 Copyright (c) 2019-2025 SIL Global
 
@@ -19,4 +20,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-sic-kbdmyan-LICENSE.md…]()
