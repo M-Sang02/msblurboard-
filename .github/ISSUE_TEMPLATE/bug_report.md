@@ -1,4 +1,4 @@
-[bug_report.md](https://github.com/user-attachments/files/32781338/bug_report.md)[Uploading bug_repor---
+---
 name: Bug report
 about: Create a report to help us improve
 labels: bug
@@ -34,4 +34,3 @@ Please provide the explicit version (not just "latest"), or if you build the app
 **Device:**
  - Model: [e.g. Samsung Galaxy S9]
  - OS: [e.g. Android 10] (please also mention whether you are using the manufacturer's OS or a custom ROM)
-t.md…]()
